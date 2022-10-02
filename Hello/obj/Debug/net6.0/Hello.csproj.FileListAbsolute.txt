@@ -1,0 +1,15 @@
+X:\Учеба\С#\new\Test\Hello\bin\Debug\net6.0\Hello.exe
+X:\Учеба\С#\new\Test\Hello\bin\Debug\net6.0\Hello.deps.json
+X:\Учеба\С#\new\Test\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+X:\Учеба\С#\new\Test\Hello\bin\Debug\net6.0\Hello.dll
+X:\Учеба\С#\new\Test\Hello\bin\Debug\net6.0\Hello.pdb
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.dll
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\refint\Hello.dll
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.pdb
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
+X:\Учеба\С#\new\Test\Hello\obj\Debug\net6.0\ref\Hello.dll
